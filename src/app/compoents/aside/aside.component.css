@@ -1,0 +1,12 @@
+#asideSide{
+    width: 100%;
+    min-height: 500px;
+    background: red;
+    float: left;
+}
+
+.other{
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}

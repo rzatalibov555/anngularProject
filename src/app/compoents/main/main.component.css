@@ -1,0 +1,23 @@
+#mainSide{
+    width: 100%;
+    min-height: 500px;
+    background: green;
+    float: left;
+    
+}
+
+.other{
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.disFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fontSize50px{
+    font-size: 50px;
+}

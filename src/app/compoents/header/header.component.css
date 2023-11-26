@@ -1,0 +1,36 @@
+#header{
+    width: 100%;
+    min-height: 70px;
+    background: blue;
+    float: left;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+#header ul li{
+    list-style-type: none;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    transition: 0.5s;
+}
+
+#header ul li:hover{
+    background: purple;
+
+}
+
+#header ul li a{
+    color: white;
+    text-decoration: none;
+}
